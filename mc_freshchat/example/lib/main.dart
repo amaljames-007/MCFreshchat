@@ -4,7 +4,6 @@ import 'update_userinfo_screen.dart';
 import 'package:localstorage/localstorage.dart';
 import 'package:mcfreshchat/mcfreshchat.dart';
 
-
 void main() {
   runApp(MyApp());
 }
